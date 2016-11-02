@@ -1,0 +1,15 @@
+.progress {
+	position: fixed;
+	z-index: 100000;	
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background-color: #fff;
+}
+
+.fill {
+	background-color: #000; /* #2af */
+	width: 0%;
+	margin: 0px;
+}
